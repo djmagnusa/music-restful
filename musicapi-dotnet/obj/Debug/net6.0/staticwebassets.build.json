@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Jl1nRyMWEVg97YTVkjQcR0lXhNOUYeUa/ApoktE+ohI=",
+  "Source": "musicapi-dotnet",
+  "BasePath": "_content/musicapi-dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
